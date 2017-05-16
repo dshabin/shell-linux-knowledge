@@ -13,7 +13,7 @@ how to use these `UNIX` tools:
    distros)
 7. `yarn` (the JavaScript package manager)
 8. `diff` (Compare two files)
-
+9. `ls` (list files and directories)
 # Other tools we'll use
 
 1. `atom` (A nice editor for writing programs)
