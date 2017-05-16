@@ -12,6 +12,7 @@ how to use these `UNIX` tools:
 6. `aptitude` (for downloading program/libraries on debian based
    distros)
 7. `yarn` (the JavaScript package manager)
+8. `diff` (Compare two files)
 
 # Other tools we'll use
 
